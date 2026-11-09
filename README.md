@@ -94,6 +94,15 @@ feedback data can be turned into role-specific, actionable reporting.
 
 ---
 
+## 📷 Dashboard Snapshots Summary
+
+| View | Screenshot |
+|---|---|
+| **Main Dashboard** | <img src="Dashboard.png" width="650"> |
+| **Roles & Access Setup** | <img src="Roles.png" width="220"> |
+| **Viewing as Health Role** | <img src="ViewingAsHealth.png" width="650"> |
+| **Customer Sentiment View** | <img src="sentiment.png" width="650"> |
+
 ### 👨‍💻 Developed By
 Abirami N — *Analyst, Process Management*
 📧 abiraminachimuthu45@gmail.com
