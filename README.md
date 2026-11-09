@@ -7,11 +7,11 @@ built to practice end-to-end BI delivery: data modeling, DAX measures, role-base
 and scheduled refresh, applied to an insurance operations use case.
 
 The project showcases my skills in:
-- Data cleaning and transformation using Power Query
-- Star-schema data modeling and DAX measure design
-- Role-Level Security (RLS) for department-specific dashboard views
+- Data cleaning and transformation using **Power Query**
+- Star-schema **data modeling and DAX measure** design
+- **Role-Level Security (RLS)** for department-specific dashboard views
 - Keyword-based sentiment scoring on customer feedback text
-- Publishing and scheduled refresh in Power BI Service
+- Publishing and **scheduled refresh** in **Power BI Service**
 
 ---
 
@@ -23,22 +23,19 @@ Summarizes policy sales, premium revenue, and claim activity across policy types
 ![Dashboard](Dashboard.png)
 
 **2️⃣ Roles & Access Setup**
-Row-Level Security configured so Health, Vehicle, and Life insurance teams each see only
-their own policy data in Power BI Service.
+Implemented **role-level security (RLS)** to provide different access views for Admin, Manager, and Analyst roles within the Power BI Service.
 
 ![Roles](Roles.png)
 
 **3️⃣ Customer Feedback & Sentiment View**
-Customer feedback text scored as positive, neutral, or negative using a keyword-based
-scoring approach, visualized to flag recurring complaint themes.
+This report visualizes **customer feedback polarity** **(positive, neutral, negative)** using sentiment scoring techniques and Power BI visuals.
 
 ![Sentiment](Sentiment.png)
 
-**4️⃣ Viewing as a Restricted Role**
-Demonstrates the RLS filter in action — the dashboard narrows automatically when viewed
-under a single policy-type role.
+**4️⃣ Viewing as a "Health" Role**
+A demonstration of Power BI’s r**ole-based filtering** — here showing how the dashboard adapts dynamically when viewed under the **Health department role**.
 
-![Viewing as Role](ViewingAsRole.png)
+![Viewing as Health](Viewing as Health.png)
 
 ---
 
