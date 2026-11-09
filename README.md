@@ -26,7 +26,6 @@ Summarizes policy sales, premium revenue, and claim activity across policy types
 Implemented **role-level security (RLS)** to provide different access views for Admin, Manager, and Analyst roles within the Power BI Service.
 
 ![Roles](Roles.png)
-
 **3️⃣ Customer Feedback & Sentiment View**
 This report visualizes **customer feedback polarity** **(positive, neutral, negative)** using sentiment scoring techniques and Power BI visuals.
 
@@ -35,7 +34,7 @@ This report visualizes **customer feedback polarity** **(positive, neutral, nega
 **4️⃣ Viewing as a "Health" Role**
 A demonstration of Power BI’s r**ole-based filtering** — here showing how the dashboard adapts dynamically when viewed under the **Health department role**.
 
-![Viewing as Health](Viewing as Health.png)
+![Viewing as Health](ViewingasHealth.png)
 
 ---
 
