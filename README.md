@@ -30,7 +30,7 @@ Implemented **role-level security (RLS)** to provide different access views for 
 **3️⃣ Customer Feedback & Sentiment View**
 This report visualizes **customer feedback polarity** **(positive, neutral, negative)** using sentiment scoring techniques and Power BI visuals.
 
-![Sentiment](Sentiment.png)
+![Sentiment](sentiment.png)
 
 **4️⃣ Viewing as a "Health" Role**
 A demonstration of Power BI’s r**ole-based filtering** — here showing how the dashboard adapts dynamically when viewed under the **Health department role**.
