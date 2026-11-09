@@ -35,7 +35,7 @@ This report visualizes **customer feedback polarity** **(positive, neutral, nega
 **4️⃣ Viewing as a "Health" Role**
 A demonstration of Power BI’s r**ole-based filtering** — here showing how the dashboard adapts dynamically when viewed under the **Health department role**.
 
-![Viewing as Health](ViewingasHealth.png)
+![Viewing as Health](ViewingAsHealth.png).
 
 ---
 
